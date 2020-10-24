@@ -41,7 +41,7 @@
     },
     "AUTH_CHANNELS": {
       "description": "chat ids which you wanted to authorize",
-      "value": "608679953",
+      "value": "",
        "required": false
     },
     "DOWNLOAD_DIR": {
